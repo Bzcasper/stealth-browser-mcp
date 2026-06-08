@@ -248,3 +248,5 @@ CLAUDE.md
 AGENTS.md
 .mcp.json
 Checklist.md
+.env*
+.env.*
